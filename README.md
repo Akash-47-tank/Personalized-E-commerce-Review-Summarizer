@@ -134,15 +134,6 @@ http://localhost:8501
 - M1-specific optimizations
 - Caching for improved response times
 
-## 📊 Benchmarks
-
-| Feature | Performance |
-|---------|------------|
-| Average Summary Generation Time | ~2-3 seconds |
-| Maximum Input Size | 200 reviews |
-| Memory Usage | ~2GB RAM |
-| Supported File Size | Up to 200MB |
-
 ## 🤝 Contributing
 
 We welcome contributions! Please follow these steps:
