@@ -154,11 +154,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Streamlit](https://streamlit.io/) for the web interface
 - [NLTK](https://www.nltk.org/) for NLP tools
 
-## 📬 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/product-review-summarizer](https://github.com/yourusername/product-review-summarizer)
-
----
-Made with ❤️ by [Your Name/Team]
