@@ -44,7 +44,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/product-review-summarizer.git
+git clone https://github.com/Akash-47-tank/product-review-summarizer.git
 cd product-review-summarizer
 ```
 
